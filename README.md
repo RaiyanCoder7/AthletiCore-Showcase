@@ -30,6 +30,12 @@ Instead of relying on disconnected spreadsheets, messages, and manual records, t
 
 ## Technology Stack
 
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Blue?logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-FFCA28?logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Styling-06B6D4?logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-Build_Tool-646CFF?logo=vite&logoColor=white)
+
 | Layer          | Technology                          |
 | -------------- | ----------------------------------- |
 | Frontend       | React, TypeScript, Vite             |
