@@ -71,3 +71,13 @@ Founder and Developer — AthletiCore
 ---
 
 *AthletiCore — Helping athletes track progress and coaches support development.*
+
+## Intellectual Property
+
+AthletiCore is an independently developed commercial product.
+
+The AthletiCore name, branding, original product materials, and original content in this showcase are © 2026 Md Raiyan Raza Khan, unless otherwise stated.
+
+The application source code is maintained in a separate private repository and is not licensed for public reuse through this showcase.
+
+This notice does not change the terms of any previously released MIT-licensed code or third-party materials.
