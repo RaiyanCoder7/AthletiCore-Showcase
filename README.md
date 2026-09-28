@@ -1,10 +1,14 @@
-# AthletiCore ⚽
+<div align="center">
+
+# ⚽ AthletiCore
 
 ### Athlete Development & Management Platform
 
-**AthletiCore** is a football-first athlete development platform designed to connect athletes, coaches, and academies through training management, performance tracking, goals, and player development.
+Building a connected ecosystem for athletes, coaches, and football academies.
 
-> Building a connected ecosystem for athlete growth, from grassroots football to competitive opportunities.
+[View Product Screenshots](#product-screenshots) · [Explore Features](#core-features)
+
+</div>
 
 ---
 
