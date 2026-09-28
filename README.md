@@ -1,58 +1,73 @@
-# AthletiCore
+# AthletiCore ⚽
 
-### Football-First Athlete Development & Management Platform
+### Athlete Development & Management Platform
 
-AthletiCore is a football-first platform designed to help athletes, coaches, and academies manage athlete development, training, performance, goals, teams, and progression in one connected system.
+**AthletiCore** is a football-first athlete development platform designed to connect athletes, coaches, and academies through training management, performance tracking, goals, and player development.
 
-## Product Vision
+> Building a connected ecosystem for athlete growth, from grassroots football to competitive opportunities.
 
-AthletiCore aims to become an athlete-development operating system that connects athletes, coaches, academies, and eventually the wider sports ecosystem.
+---
 
-## Core Areas
+## About the Project
 
-* Athlete profiles and development history
-* Coach-athlete management
-* Training management
-* Performance tracking
-* Goals and development plans
-* Team management
-* Analytics and progress tracking
-* Coach feedback
-* Notifications
+AthletiCore aims to simplify how football academies manage athletes and how players track their development.
 
-## Technology
+Instead of relying on disconnected spreadsheets, messages, and manual records, the platform brings essential athlete-development workflows into one place.
 
-* React
-* TypeScript
-* Vite
-* Tailwind CSS
-* Firebase Authentication
-* Cloud Firestore
-* Firebase App Check
-* Recharts
-* Framer Motion
-* Lucide React
+## Core Features
 
-## Product Direction
+* **Athlete Profiles** — Player identity and development records.
+* **Coach Dashboard** — Manage athletes and coaching workflows.
+* **Training Management** — Organize and track training activities.
+* **Performance Analytics** — Visualize player progress.
+* **Goals & Development Plans** — Track individual improvement objectives.
+* **Team Management** — Organize athletes and teams.
+* **Calendar** — Manage training schedules and activities.
 
-AthletiCore is being developed as a commercial product. The application source code and backend implementation are maintained privately.
+## Technology Stack
 
-The public repository contains product information and selected visual documentation rather than the application source code.
+| Layer          | Technology                          |
+| -------------- | ----------------------------------- |
+| Frontend       | React, TypeScript, Vite             |
+| Styling        | Tailwind CSS                        |
+| Authentication | Firebase Authentication             |
+| Database       | Cloud Firestore                     |
+| Security       | Firebase App Check, Firestore Rules |
+| Charts         | Recharts                            |
+| Animation      | Framer Motion                       |
+| Icons          | Lucide React                        |
 
-## Screenshots
+## Product Screenshots
 
 Coming soon.
 
-## Architecture
+## Product Roadmap
 
-Coming soon.
+* [x] Athlete dashboard foundation
+* [x] Authentication and role-based workflows
+* [x] Core athlete and coach interfaces
+* [ ] Pilot-ready academy workflows
+* [ ] Advanced performance insights
+* [ ] AI-assisted development reports
+* [ ] Athlete verification and recruitment
+* [ ] Multi-sport expansion
 
-## Status
+## Project Status
 
-🚧 Actively under development.
+🚧 **Under active development**
+
+AthletiCore is being developed as a commercial product. This public repository serves as a product showcase; the application source code is maintained privately.
 
 ## Founder & Developer
 
 **Md Raiyan Raza Khan**
 
-AthletiCore is an independent product currently being developed from India.
+Founder and Developer — AthletiCore
+
+## Connect
+
+* GitHub: [RaiyanCoder7](https://github.com/RaiyanCoder7)
+
+---
+
+*AthletiCore — Helping athletes track progress and coaches support development.*
